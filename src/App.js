@@ -1,3 +1,4 @@
+import Receta from './components/Receta';
 import logo from './logo.svg';
 //import './App.css';
 //Comentario de prueba
@@ -10,6 +11,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <Receta/>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
