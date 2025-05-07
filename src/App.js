@@ -12,6 +12,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Titulo titulo='Uniendo cambios desde GIT' />
+        <Titulo titulo  = 'Componente creado por David' />
         <img src={logo} className="App-logo" alt="logo" />
         <Receta/>
         <p>
