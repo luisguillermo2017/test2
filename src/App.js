@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Esto es codigo hecho por Boris</h1>
-        
+        <h2>Esto es codigo hecho por Boris volumen 2</h2>
         <p>
           Edit <code>src/App.js</code> and save to reload.
 
