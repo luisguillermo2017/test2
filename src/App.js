@@ -1,4 +1,5 @@
 import Titulo from './components/Titulo';
+import Receta from './components/Receta';
 import logo from './logo.svg';
 //import './App.css';
 //Comentario de prueba
@@ -12,6 +13,7 @@ function App() {
       <header className="App-header">
         <Titulo titulo='Uniendo cambios desde GIT' />
         <img src={logo} className="App-logo" alt="logo" />
+        <Receta/>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
